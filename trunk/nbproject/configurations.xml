@@ -4,11 +4,13 @@
     <logicalFolder name="HeaderFiles"
                    displayName="Arquivos de cabeçalho"
                    projectFiles="true">
+      <itemPath>layer.h</itemPath>
       <itemPath>neuron.h</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Arquivos de código-fonte"
                    projectFiles="true">
+      <itemPath>layer.cpp</itemPath>
       <itemPath>main.cpp</itemPath>
       <itemPath>neuron.cpp</itemPath>
     </logicalFolder>
